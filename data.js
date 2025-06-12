@@ -466,7 +466,7 @@ const LMS_data = {
     ["Ahmad Aulia Ramadhan","222310283","312411"],
     ["Alfarabi Putra Sudrajat","222310249","86cfb9"],
     ["Anissa Aulia Rahma","222310251","312285"],
-    ["Alzan Adytia Juniar","1211320","81dcdc"],
+    ["Alzan Adytia Juniar","222310252","31r295"],
     ["Aqsyal Gilang Ramadhan","222310286","d2c8b8"],
     ["Bunga Rischa Namira","222310322","d46711"],
     ["Fabian Putra Hermawan","222310324","7f32ac"],
